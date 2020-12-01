@@ -6,3 +6,6 @@ __pycache__
 *.csv
 *.txt
 *.json
+data/
+sources_json/
+source_csv/
